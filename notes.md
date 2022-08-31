@@ -27,3 +27,4 @@ Basicamente, pode-se dizer que a portabilidade diz respeito a capacidade dessa l
 - This: Refere-se à instância atual do objeto.
 8) Grupo com algumas palavras reservadas que não são utilizadas: Const, e Goto
 
+# Fluxo de Controle e Arrays:
